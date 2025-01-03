@@ -2,7 +2,7 @@ module github.com/BarTar213/test
 
 go 1.23.4
 
-require github.com/BarTar213/bartlomiej-tarczynski v0.0.0-20200920145330-9c102e653e92
+require github.com/BarTar213/bartlomiej-tarczynski v0.0.1
 
 require (
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
